@@ -1,0 +1,10 @@
+{
+  "name": "イコール速報！",
+  "description": "=LOVE（イコールラブ）、≠ME（ノットイコールミー）、≒JOY（ニアリーイコールジョイ）、指原莉乃のニュースをRSS中心に集め、グループ別・メンバー別・今日の記事・週間まとめで見やすく整理します。",
+  "shortDescription": "イコノイジョイ関連ニュースを元記事リンク中心で整理する速報まとめサイト。",
+  "brandColor": "#ff4f9a",
+  "accentColor": "#7a5cff",
+  "publicUrl": "https://equal-sokuho.pages.dev/",
+  "ogpImage": "/assets/ogp.svg",
+  "favicon": "/assets/favicon.svg"
+}

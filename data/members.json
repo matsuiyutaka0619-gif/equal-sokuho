@@ -1,0 +1,523 @@
+{
+  "members": [
+    {
+      "id": "ikonoi-joy",
+      "name": "イコノイジョイ",
+      "aliases": [
+        "イコノイジョイ",
+        "イコラブノイミーニアジョイ",
+        "イコラブ ノイミー ニアジョイ"
+      ],
+      "group": "イコノイジョイ",
+      "status": "active",
+      "kind": "group"
+    },
+    {
+      "id": "equal-love",
+      "name": "=LOVE",
+      "aliases": [
+        "=LOVE",
+        "＝LOVE",
+        "イコールラブ",
+        "イコラブ",
+        "equal love"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "group"
+    },
+    {
+      "id": "not-equal-me",
+      "name": "≠ME",
+      "aliases": [
+        "≠ME",
+        "ノットイコールミー",
+        "ノイミー",
+        "not equal me"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "group"
+    },
+    {
+      "id": "nearly-equal-joy",
+      "name": "≒JOY",
+      "aliases": [
+        "≒JOY",
+        "ニアリーイコールジョイ",
+        "ニアジョイ",
+        "nearly equal joy"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "group"
+    },
+    {
+      "id": "sashihara-rino",
+      "name": "指原莉乃",
+      "aliases": [
+        "指原 莉乃",
+        "指原莉乃",
+        "さっしー",
+        "サッシー",
+        "Rino Sashihara"
+      ],
+      "group": "プロデューサー",
+      "status": "producer",
+      "kind": "member"
+    },
+    {
+      "id": "otani-emiri",
+      "name": "大谷映美里",
+      "aliases": [
+        "大谷 映美里",
+        "大谷映美里",
+        "OTANI EMIRI"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "oba-hana",
+      "name": "大場花菜",
+      "aliases": [
+        "大場 花菜",
+        "大場花菜",
+        "OBA HANA"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "otoshima-risa",
+      "name": "音嶋莉沙",
+      "aliases": [
+        "音嶋 莉沙",
+        "音嶋莉沙",
+        "OTOSHIMA RISA"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "saito-kiara",
+      "name": "齋藤樹愛羅",
+      "aliases": [
+        "齋藤 樹愛羅",
+        "齋藤樹愛羅",
+        "斎藤樹愛羅",
+        "SAITO KIARA"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "sasaki-maika",
+      "name": "佐々木舞香",
+      "aliases": [
+        "佐々木 舞香",
+        "佐々木舞香",
+        "SASAKI MAIKA"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "takamatsu-hitomi",
+      "name": "髙松瞳",
+      "aliases": [
+        "髙松 瞳",
+        "髙松瞳",
+        "高松瞳",
+        "TAKAMATSU HITOMI"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "takiwaki-shoko",
+      "name": "瀧脇笙古",
+      "aliases": [
+        "瀧脇 笙古",
+        "瀧脇笙古",
+        "滝脇笙古",
+        "TAKIWAKI SHOKO"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "noguchi-iori",
+      "name": "野口衣織",
+      "aliases": [
+        "野口 衣織",
+        "野口衣織",
+        "NOGUCHI IORI"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "morohashi-sana",
+      "name": "諸橋沙夏",
+      "aliases": [
+        "諸橋 沙夏",
+        "諸橋沙夏",
+        "MOROHASHI SANA"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "yamamoto-anna",
+      "name": "山本杏奈",
+      "aliases": [
+        "山本 杏奈",
+        "山本杏奈",
+        "YAMAMOTO ANNA"
+      ],
+      "group": "=LOVE",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "ogi-hana",
+      "name": "尾木波菜",
+      "aliases": [
+        "尾木 波菜",
+        "尾木波菜",
+        "OGI HANA"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "ochiai-kirari",
+      "name": "落合希来里",
+      "aliases": [
+        "落合 希来里",
+        "落合希来里",
+        "OCHIAI KIRARI"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "kanisawa-moeko",
+      "name": "蟹沢萌子",
+      "aliases": [
+        "蟹沢 萌子",
+        "蟹沢萌子",
+        "KANISAWA MOEKO"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "kawaguchi-natsune",
+      "name": "河口夏音",
+      "aliases": [
+        "河口 夏音",
+        "河口夏音",
+        "KAWAGUCHI NATSUNE"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "kawanago-natsumi",
+      "name": "川中子奈月心",
+      "aliases": [
+        "川中子 奈月心",
+        "川中子奈月心",
+        "KAWANAGO NATSUMI"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "sakurai-momo",
+      "name": "櫻井もも",
+      "aliases": [
+        "櫻井 もも",
+        "櫻井もも",
+        "桜井もも",
+        "SAKURAI MOMO"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "suganami-mirei",
+      "name": "菅波美玲",
+      "aliases": [
+        "菅波 美玲",
+        "菅波美玲",
+        "SUGANAMI MIREI"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "suzuki-hitomi",
+      "name": "鈴木瞳美",
+      "aliases": [
+        "鈴木 瞳美",
+        "鈴木瞳美",
+        "SUZUKI HITOMI"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "tanizaki-saya",
+      "name": "谷崎早耶",
+      "aliases": [
+        "谷崎 早耶",
+        "谷崎早耶",
+        "TANIZAKI SAYA"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "tomita-nanaka",
+      "name": "冨田菜々風",
+      "aliases": [
+        "冨田 菜々風",
+        "冨田菜々風",
+        "富田菜々風",
+        "TOMITA NANAKA"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "nagata-shiori",
+      "name": "永田詩央里",
+      "aliases": [
+        "永田 詩央里",
+        "永田詩央里",
+        "NAGATA SHIORI"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "honda-miyuki",
+      "name": "本田珠由記",
+      "aliases": [
+        "本田 珠由記",
+        "本田珠由記",
+        "HONDA MIYUKI"
+      ],
+      "group": "≠ME",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "aida-jurii",
+      "name": "逢田珠里依",
+      "aliases": [
+        "逢田 珠里依",
+        "逢田珠里依",
+        "AIDA JURII"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "amano-konoa",
+      "name": "天野香乃愛",
+      "aliases": [
+        "天野 香乃愛",
+        "天野香乃愛",
+        "AMANO KONOA"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "ichihara-ayumi",
+      "name": "市原愛弓",
+      "aliases": [
+        "市原 愛弓",
+        "市原愛弓",
+        "ICHIHARA AYUMI"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "esumi-renon",
+      "name": "江角怜音",
+      "aliases": [
+        "江角 怜音",
+        "江角怜音",
+        "ESUMI RENON"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "oshida-mitsuki",
+      "name": "大信田美月",
+      "aliases": [
+        "大信田 美月",
+        "大信田美月",
+        "OSHIDA MITSUKI"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "onishi-aoi",
+      "name": "大西葵",
+      "aliases": [
+        "大西 葵",
+        "大西葵",
+        "ONISHI AOI"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "ozawa-aimi",
+      "name": "小澤愛実",
+      "aliases": [
+        "小澤 愛実",
+        "小澤愛実",
+        "OZAWA AIMI"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "takahashi-mai",
+      "name": "髙橋舞",
+      "aliases": [
+        "髙橋 舞",
+        "髙橋舞",
+        "高橋舞",
+        "TAKAHASHI MAI"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "fujisawa-riko",
+      "name": "藤沢莉子",
+      "aliases": [
+        "藤沢 莉子",
+        "藤沢莉子",
+        "FUJISAWA RIKO"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "murayama-yuuka",
+      "name": "村山結香",
+      "aliases": [
+        "村山 結香",
+        "村山結香",
+        "MURAYAMA YUUKA"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "yamada-momoka",
+      "name": "山田杏佳",
+      "aliases": [
+        "山田 杏佳",
+        "山田杏佳",
+        "YAMADA MOMOKA"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "yamano-arisu",
+      "name": "山野愛月",
+      "aliases": [
+        "山野 愛月",
+        "山野愛月",
+        "YAMANO ARISU"
+      ],
+      "group": "≒JOY",
+      "status": "active",
+      "kind": "member"
+    },
+    {
+      "id": "saito-nagisa",
+      "name": "齊藤なぎさ",
+      "aliases": [
+        "齊藤 なぎさ",
+        "齊藤なぎさ",
+        "斉藤なぎさ",
+        "元=LOVE"
+      ],
+      "group": "=LOVE",
+      "status": "former",
+      "kind": "member"
+    },
+    {
+      "id": "satake-nonno",
+      "name": "佐竹のん乃",
+      "aliases": [
+        "佐竹 のん乃",
+        "佐竹のん乃",
+        "元=LOVE"
+      ],
+      "group": "=LOVE",
+      "status": "former",
+      "kind": "member"
+    }
+  ],
+  "statuses": [
+    {
+      "id": "active",
+      "label": "所属アイドル"
+    },
+    {
+      "id": "producer",
+      "label": "プロデューサー"
+    },
+    {
+      "id": "former",
+      "label": "元メンバー"
+    }
+  ]
+}

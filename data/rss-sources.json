@@ -1,0 +1,108 @@
+{
+  "sources": [
+    {
+      "id": "natalie-music",
+      "name": "音楽ナタリー",
+      "url": "https://natalie.mu/music/feed/news",
+      "enabled": true,
+      "type": "atom",
+      "notes": "検証済みの汎用音楽RSS。対象キーワードで抽出。"
+    },
+    {
+      "id": "wws-channel",
+      "name": "WWSチャンネル",
+      "url": "https://www.wws-channel.com/feed",
+      "enabled": true,
+      "type": "rss",
+      "notes": "アイドル・芸能系RSS。対象キーワードで抽出。"
+    },
+    {
+      "id": "girlsnews",
+      "name": "GirlsNews",
+      "url": "https://girlsnews.tv/feed",
+      "enabled": true,
+      "type": "rss",
+      "notes": "アイドル系RSS。対象キーワードで抽出。"
+    },
+    {
+      "id": "rbbtoday",
+      "name": "RBB TODAY",
+      "url": "https://www.rbbtoday.com/rss/index.rdf",
+      "enabled": true,
+      "type": "rdf",
+      "notes": "芸能系RSS。対象キーワードで抽出。"
+    },
+    {
+      "id": "google-news-ikonoi",
+      "name": "Googleニュース: イコノイジョイ全体",
+      "url": "https://news.google.com/rss/search?q=%22%E3%82%A4%E3%82%B3%E3%83%8E%E3%82%A4%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22%20OR%20%22%E3%83%8E%E3%82%A4%E3%83%9F%E3%83%BC%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
+      "enabled": true,
+      "type": "rss",
+      "notes": "3グループ横断の検索RSS。"
+    },
+    {
+      "id": "google-news-equal-love",
+      "name": "Googleニュース: =LOVE",
+      "url": "https://news.google.com/rss/search?q=%22%3DLOVE%22%20OR%20%22%EF%BC%9DLOVE%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%A9%E3%83%96%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22&hl=ja&gl=JP&ceid=JP:ja",
+      "enabled": true,
+      "type": "rss",
+      "notes": "=LOVE向け検索RSS。"
+    },
+    {
+      "id": "google-news-not-equal-me",
+      "name": "Googleニュース: ≠ME",
+      "url": "https://news.google.com/rss/search?q=%22%E2%89%A0ME%22%20OR%20%22%E3%83%8E%E3%83%83%E3%83%88%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%9F%E3%83%BC%22%20OR%20%22%E3%83%8E%E3%82%A4%E3%83%9F%E3%83%BC%22&hl=ja&gl=JP&ceid=JP:ja",
+      "enabled": true,
+      "type": "rss",
+      "notes": "≠ME向け検索RSS。"
+    },
+    {
+      "id": "google-news-nearly-equal-joy",
+      "name": "Googleニュース: ≒JOY",
+      "url": "https://news.google.com/rss/search?q=%22%E2%89%92JOY%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
+      "enabled": true,
+      "type": "rss",
+      "notes": "≒JOY向け検索RSS。"
+    },
+    {
+      "id": "google-news-sashihara",
+      "name": "Googleニュース: 指原莉乃",
+      "url": "https://news.google.com/rss/search?q=%22%E6%8C%87%E5%8E%9F%E8%8E%89%E4%B9%83%22%20OR%20%22%E6%8C%87%E5%8E%9F%20%E8%8E%89%E4%B9%83%22&hl=ja&gl=JP&ceid=JP:ja",
+      "enabled": true,
+      "type": "rss",
+      "notes": "指原莉乃向け検索RSS。"
+    },
+    {
+      "id": "official-equal-love-disabled",
+      "name": "=LOVE公式サイトNEWS",
+      "url": "https://equal-love.jp/news/",
+      "enabled": false,
+      "type": "html",
+      "notes": "公式NEWSページ。RSSではないため公式リンク扱い。"
+    },
+    {
+      "id": "official-not-equal-me-disabled",
+      "name": "≠ME公式サイトNEWS",
+      "url": "https://not-equal-me.jp/news/",
+      "enabled": false,
+      "type": "html",
+      "notes": "公式NEWSページ。RSSではないため公式リンク扱い。"
+    },
+    {
+      "id": "official-nearly-equal-joy-disabled",
+      "name": "≒JOY公式サイトNEWS",
+      "url": "https://nearly-equal-joy.jp/news/",
+      "enabled": false,
+      "type": "html",
+      "notes": "公式NEWSページ。RSSではないため公式リンク扱い。"
+    },
+    {
+      "id": "yahoo-news-disabled",
+      "name": "Yahoo!ニュース",
+      "url": "",
+      "enabled": false,
+      "type": "rss",
+      "notes": "再利用条件が不安なため有効化しない。Googleニュース経由の元記事リンク掲載にとどめる。"
+    }
+  ]
+}

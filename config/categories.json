@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "id": "ikonoi-joy",
+      "label": "イコノイジョイ全体",
+      "keywords": [
+        "イコノイジョイ",
+        "イコラブノイミーニアジョイ",
+        "イコラブ ノイミー ニアジョイ",
+        "=LOVE",
+        "＝LOVE",
+        "≠ME",
+        "≒JOY",
+        "指原莉乃"
+      ]
+    },
+    {
+      "id": "equal-love",
+      "label": "=LOVE",
+      "keywords": [
+        "=LOVE",
+        "＝LOVE",
+        "イコールラブ",
+        "イコラブ",
+        "equal love"
+      ]
+    },
+    {
+      "id": "not-equal-me",
+      "label": "≠ME",
+      "keywords": [
+        "≠ME",
+        "ノットイコールミー",
+        "ノイミー",
+        "not equal me"
+      ]
+    },
+    {
+      "id": "nearly-equal-joy",
+      "label": "≒JOY",
+      "keywords": [
+        "≒JOY",
+        "ニアリーイコールジョイ",
+        "ニアジョイ",
+        "nearly equal joy"
+      ]
+    },
+    {
+      "id": "sashihara-rino",
+      "label": "指原莉乃",
+      "keywords": [
+        "指原莉乃",
+        "指原 莉乃",
+        "さっしー",
+        "サッシー",
+        "Rino Sashihara"
+      ]
+    },
+    {
+      "id": "live-event",
+      "label": "ライブ・イベント",
+      "keywords": [
+        "ライブ",
+        "コンサート",
+        "ツアー",
+        "フェス",
+        "イベント",
+        "特典会",
+        "TIF",
+        "@JAM",
+        "公演",
+        "リリースイベント"
+      ]
+    },
+    {
+      "id": "release",
+      "label": "新曲・リリース",
+      "keywords": [
+        "シングル",
+        "アルバム",
+        "新曲",
+        "MV",
+        "ミュージックビデオ",
+        "リリース",
+        "配信",
+        "表題曲",
+        "カップリング"
+      ]
+    },
+    {
+      "id": "media",
+      "label": "テレビ・メディア",
+      "keywords": [
+        "テレビ",
+        "ドラマ",
+        "映画",
+        "ラジオ",
+        "番組",
+        "出演",
+        "表紙",
+        "掲載",
+        "インタビュー",
+        "CM",
+        "舞台"
+      ]
+    }
+  ]
+}

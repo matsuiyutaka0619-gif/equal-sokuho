@@ -1,0 +1,10 @@
+{
+  "name": "equal-sokuho",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-feeds.mjs",
+    "serve": "python3 -m http.server 8000"
+  }
+}

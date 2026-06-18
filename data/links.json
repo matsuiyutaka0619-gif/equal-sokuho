@@ -1,0 +1,70 @@
+{
+  "links": [
+    {
+      "title": "=LOVE 公式サイト",
+      "url": "https://equal-love.jp/",
+      "group": "=LOVE",
+      "type": "公式サイト"
+    },
+    {
+      "title": "=LOVE NEWS",
+      "url": "https://equal-love.jp/news/",
+      "group": "=LOVE",
+      "type": "公式NEWS"
+    },
+    {
+      "title": "=LOVE 公式YouTube",
+      "url": "https://www.youtube.com/@equallove_",
+      "group": "=LOVE",
+      "type": "YouTube"
+    },
+    {
+      "title": "≠ME 公式サイト",
+      "url": "https://not-equal-me.jp/",
+      "group": "≠ME",
+      "type": "公式サイト"
+    },
+    {
+      "title": "≠ME NEWS",
+      "url": "https://not-equal-me.jp/news/",
+      "group": "≠ME",
+      "type": "公式NEWS"
+    },
+    {
+      "title": "≠ME 公式YouTube",
+      "url": "https://www.youtube.com/@NotequalME",
+      "group": "≠ME",
+      "type": "YouTube"
+    },
+    {
+      "title": "≒JOY 公式サイト",
+      "url": "https://nearly-equal-joy.jp/",
+      "group": "≒JOY",
+      "type": "公式サイト"
+    },
+    {
+      "title": "≒JOY NEWS",
+      "url": "https://nearly-equal-joy.jp/news/",
+      "group": "≒JOY",
+      "type": "公式NEWS"
+    },
+    {
+      "title": "≒JOY 公式YouTube",
+      "url": "https://www.youtube.com/@nearlyequaljoy",
+      "group": "≒JOY",
+      "type": "YouTube"
+    },
+    {
+      "title": "指原莉乃 公式X",
+      "url": "https://x.com/345__chan",
+      "group": "指原莉乃",
+      "type": "公式SNS"
+    },
+    {
+      "title": "太田プロダクション 指原莉乃",
+      "url": "https://www.ohtapro.co.jp/talent/sashihararino.html",
+      "group": "指原莉乃",
+      "type": "所属事務所"
+    }
+  ]
+}

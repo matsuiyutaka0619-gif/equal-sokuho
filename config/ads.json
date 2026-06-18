@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "publisherId": "pub-8002455848254296",
+  "adsenseScript": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8002455848254296",
+  "slots": {
+    "header": { "label": "ヘッダー下広告", "slotId": "", "enabled": true },
+    "inFeed": { "label": "記事一覧途中広告", "slotId": "", "enabled": true, "after": 6 },
+    "articleBottom": { "label": "記事下広告", "slotId": "", "enabled": true }
+  },
+  "notes": "AdSense審査用のpublisherIdと共通スクリプトを設定済みです。審査通過後に各広告ユニットのslotIdを設定してください。"
+}
