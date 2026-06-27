@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-27T16:18:58.996Z",
+  "updatedAt": "2026-06-27T21:45:35.532Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
     "articlesSaved": 240,
-    "duplicatesSkipped": 29
+    "duplicatesSkipped": 55
   },
   "sources": [
     {
@@ -63,8 +63,8 @@
       "url": "https://news.google.com/rss/search?q=%22%3DLOVE%22%20OR%20%22%EF%BC%9DLOVE%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%A9%E3%83%96%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 38,
-      "skipped": 62,
+      "matched": 40,
+      "skipped": 60,
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%92JOY%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 77,
-      "skipped": 23,
+      "matched": 78,
+      "skipped": 22,
       "error": ""
     },
     {
@@ -92,9 +92,9 @@
       "name": "Googleニュース: 指原莉乃",
       "url": "https://news.google.com/rss/search?q=%22%E6%8C%87%E5%8E%9F%E8%8E%89%E4%B9%83%22%20OR%20%22%E6%8C%87%E5%8E%9F%20%E8%8E%89%E4%B9%83%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
-      "fetched": 12,
-      "matched": 6,
-      "skipped": 6,
+      "fetched": 102,
+      "matched": 66,
+      "skipped": 36,
       "error": ""
     }
   ]
