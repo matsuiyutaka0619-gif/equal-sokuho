@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T08:14:32.639Z",
+  "updatedAt": "2026-07-11T13:53:41.299Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
@@ -23,8 +23,8 @@
       "url": "https://www.wws-channel.com/feed",
       "ok": true,
       "fetched": 50,
-      "matched": 1,
-      "skipped": 49,
+      "matched": 0,
+      "skipped": 50,
       "error": ""
     },
     {
@@ -63,8 +63,8 @@
       "url": "https://news.google.com/rss/search?q=%22%3DLOVE%22%20OR%20%22%EF%BC%9DLOVE%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%A9%E3%83%96%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 29,
-      "skipped": 71,
+      "matched": 31,
+      "skipped": 69,
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%92JOY%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 66,
-      "skipped": 34,
+      "matched": 65,
+      "skipped": 35,
       "error": ""
     },
     {
