@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-10T19:50:40.343Z",
+  "updatedAt": "2026-07-11T03:41:43.966Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
     "articlesSaved": 240,
-    "duplicatesSkipped": 46
+    "duplicatesSkipped": 41
   },
   "sources": [
     {
@@ -63,8 +63,8 @@
       "url": "https://news.google.com/rss/search?q=%22%3DLOVE%22%20OR%20%22%EF%BC%9DLOVE%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%A9%E3%83%96%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 27,
-      "skipped": 73,
+      "matched": 29,
+      "skipped": 71,
       "error": ""
     },
     {
@@ -73,8 +73,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%A0ME%22%20OR%20%22%E3%83%8E%E3%83%83%E3%83%88%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%9F%E3%83%BC%22%20OR%20%22%E3%83%8E%E3%82%A4%E3%83%9F%E3%83%BC%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 75,
-      "skipped": 25,
+      "matched": 74,
+      "skipped": 26,
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%92JOY%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 66,
-      "skipped": 34,
+      "matched": 67,
+      "skipped": 33,
       "error": ""
     },
     {
@@ -92,9 +92,9 @@
       "name": "Googleニュース: 指原莉乃",
       "url": "https://news.google.com/rss/search?q=%22%E6%8C%87%E5%8E%9F%E8%8E%89%E4%B9%83%22%20OR%20%22%E6%8C%87%E5%8E%9F%20%E8%8E%89%E4%B9%83%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
-      "fetched": 102,
+      "fetched": 100,
       "matched": 81,
-      "skipped": 21,
+      "skipped": 19,
       "error": ""
     }
   ]
