@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T08:31:34.453Z",
+  "updatedAt": "2026-07-12T13:56:13.900Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
@@ -21,11 +21,11 @@
       "id": "wws-channel",
       "name": "WWSチャンネル",
       "url": "https://www.wws-channel.com/feed",
-      "ok": false,
-      "fetched": 0,
+      "ok": true,
+      "fetched": 50,
       "matched": 0,
-      "skipped": 0,
-      "error": "fetch failed"
+      "skipped": 50,
+      "error": ""
     },
     {
       "id": "girlsnews",
@@ -63,8 +63,8 @@
       "url": "https://news.google.com/rss/search?q=%22%3DLOVE%22%20OR%20%22%EF%BC%9DLOVE%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%A9%E3%83%96%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 29,
-      "skipped": 71,
+      "matched": 30,
+      "skipped": 70,
       "error": ""
     },
     {
@@ -73,8 +73,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%A0ME%22%20OR%20%22%E3%83%8E%E3%83%83%E3%83%88%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%9F%E3%83%BC%22%20OR%20%22%E3%83%8E%E3%82%A4%E3%83%9F%E3%83%BC%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 74,
-      "skipped": 26,
+      "matched": 75,
+      "skipped": 25,
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%92JOY%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 64,
-      "skipped": 36,
+      "matched": 65,
+      "skipped": 35,
       "error": ""
     },
     {
