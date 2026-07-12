@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-12T03:56:34.062Z",
+  "updatedAt": "2026-07-12T08:31:34.453Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
     "articlesSaved": 240,
-    "duplicatesSkipped": 45
+    "duplicatesSkipped": 47
   },
   "sources": [
     {
@@ -21,11 +21,11 @@
       "id": "wws-channel",
       "name": "WWSチャンネル",
       "url": "https://www.wws-channel.com/feed",
-      "ok": true,
-      "fetched": 50,
+      "ok": false,
+      "fetched": 0,
       "matched": 0,
-      "skipped": 50,
-      "error": ""
+      "skipped": 0,
+      "error": "fetch failed"
     },
     {
       "id": "girlsnews",
@@ -93,8 +93,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E6%8C%87%E5%8E%9F%E8%8E%89%E4%B9%83%22%20OR%20%22%E6%8C%87%E5%8E%9F%20%E8%8E%89%E4%B9%83%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 78,
-      "skipped": 22,
+      "matched": 77,
+      "skipped": 23,
       "error": ""
     }
   ]
