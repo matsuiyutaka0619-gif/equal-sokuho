@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-23T19:45:10.671Z",
+  "updatedAt": "2026-07-24T03:42:54.547Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
     "articlesSaved": 240,
-    "duplicatesSkipped": 32
+    "duplicatesSkipped": 30
   },
   "sources": [
     {
@@ -63,8 +63,8 @@
       "url": "https://news.google.com/rss/search?q=%22%3DLOVE%22%20OR%20%22%EF%BC%9DLOVE%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%A9%E3%83%96%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 20,
-      "skipped": 80,
+      "matched": 21,
+      "skipped": 79,
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%92JOY%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 70,
-      "skipped": 30,
+      "matched": 68,
+      "skipped": 32,
       "error": ""
     },
     {
