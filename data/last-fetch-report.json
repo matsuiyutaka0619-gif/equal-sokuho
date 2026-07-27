@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-27T15:12:44.559Z",
+  "updatedAt": "2026-07-27T19:53:22.355Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
     "articlesSaved": 240,
-    "duplicatesSkipped": 32
+    "duplicatesSkipped": 33
   },
   "sources": [
     {
@@ -73,8 +73,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%A0ME%22%20OR%20%22%E3%83%8E%E3%83%83%E3%83%88%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%9F%E3%83%BC%22%20OR%20%22%E3%83%8E%E3%82%A4%E3%83%9F%E3%83%BC%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 68,
-      "skipped": 32,
+      "matched": 66,
+      "skipped": 34,
       "error": ""
     },
     {
