@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "update": "node scripts/update-feeds.mjs",
+    "update": "node scripts/update-feeds.mjs && node scripts/build-site.mjs",
+    "build": "node scripts/build-site.mjs",
     "serve": "python3 -m http.server 8000"
   }
 }

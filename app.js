@@ -1,4 +1,4 @@
-const DATA_VERSION = "202606180001";
+const DATA_VERSION = "202607290001";
 const pageMode = document.body.dataset.page || "home";
 const pageFilter = document.body.dataset.filter || new URLSearchParams(location.search).get("category") || new URLSearchParams(location.search).get("member") || "";
 
@@ -297,8 +297,8 @@ function renderLinks() {
   if (!container) return;
   container.innerHTML = state.links.map((link) => `
     <a class="link-card" href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer">
-      <strong>${escapeHtml(link.name)}</strong>
-      <span>${escapeHtml(link.group)}</span>
+      <strong>${escapeHtml(link.title || link.name)}</strong>
+      <span>${escapeHtml(link.type || link.group)}</span>
     </a>
   `).join("");
 }
