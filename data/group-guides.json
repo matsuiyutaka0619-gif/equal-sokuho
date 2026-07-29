@@ -1,0 +1,205 @@
+{
+  "checkedAt": "2026-07-29",
+  "guides": [
+    {
+      "id": "ikonoi-joy",
+      "name": "イコノイジョイ",
+      "reading": "イコノイジョイ",
+      "eyebrow": "START GUIDE",
+      "shortDescription": "=LOVE・≠ME・≒JOYの関係と違いを、初めて知った人向けに整理した入門ガイドです。",
+      "overview": "「イコノイジョイ」は、指原莉乃がプロデュースする=LOVE・≠ME・≒JOYの3グループをまとめて扱うときに使われる呼び方です。本サイトでは、3組のニュースを横断して探せるよう、この呼び方を総合カテゴリ名として使用しています。3組は別々のグループですが、合同コンサートや合同楽曲などで共演しています。",
+      "founded": "3グループ合同の名称として、合同公演「イコノイジョイ」などで使用",
+      "debut": "=LOVEは2017年、≠MEは2019年にお披露目、≒JOYは2022年にお披露目",
+      "producer": "指原莉乃",
+      "membersMode": "groups",
+      "highlights": [
+        "3グループはいずれも指原莉乃プロデュース、代々木アニメーション学院との取り組みから誕生",
+        "合同コンサート「イコノイジョイ」では、各グループの楽曲やシャッフル企画を実施",
+        "合同楽曲「トリプルデート」など、3組を横断した作品・活動がある"
+      ],
+      "representativeWorks": [
+        "トリプルデート",
+        "イコノイジョイ 2022",
+        "イコノイジョイ 2023"
+      ],
+      "sources": [
+        {
+          "label": "=LOVE 公式 ABOUT",
+          "url": "https://equal-love.jp/feature/about"
+        },
+        {
+          "label": "≠ME 公式 ABOUT",
+          "url": "https://not-equal-me.jp/feature/about"
+        },
+        {
+          "label": "≒JOY 公式 ABOUT",
+          "url": "https://nearly-equal-joy.jp/feature/about"
+        },
+        {
+          "label": "≒JOY公式 イコノイジョイ2023作品情報",
+          "url": "https://nearly-equal-joy.jp/discography/detail/26/"
+        }
+      ]
+    },
+    {
+      "id": "equal-love",
+      "name": "=LOVE",
+      "reading": "イコールラブ",
+      "eyebrow": "GROUP GUIDE",
+      "shortDescription": "=LOVE（イコールラブ）の成り立ち、現在のメンバー、代表的な楽曲、公式情報をまとめたガイドです。",
+      "overview": "=LOVEは、指原莉乃が理想のアイドルをプロデュースするため、代々木アニメーション学院と取り組んで誕生したグループです。公式サイトは、グループ名に「アイドルはファンに愛され、自分自身もアイドルという仕事を愛さなければいけない」という思いが込められていると説明しています。",
+      "founded": "2017年4月29日にオーディション最終審査とグループ名を発表",
+      "debut": "2017年9月6日、シングル「=LOVE」でメジャーデビュー",
+      "producer": "指原莉乃",
+      "membersMode": "=LOVE",
+      "highlights": [
+        "声優教育を取り入れた「声優アイドル」プロジェクトとして始動",
+        "楽曲、ライブ、テレビ、ラジオ、舞台など幅広い分野で活動",
+        "≠ME・≒JOYと合同で「イコノイジョイ」公演にも出演"
+      ],
+      "representativeWorks": [
+        "=LOVE",
+        "青春“サブリミナル”",
+        "あの子コンプレックス"
+      ],
+      "sources": [
+        {
+          "label": "=LOVE 公式 ABOUT",
+          "url": "https://equal-love.jp/feature/about"
+        },
+        {
+          "label": "=LOVE 公式プロフィール",
+          "url": "https://equal-love.jp/feature/profile"
+        },
+        {
+          "label": "デビューシングル「=LOVE」",
+          "url": "https://equal-love.jp/discography/detail/3/"
+        },
+        {
+          "label": "=LOVE 公式ディスコグラフィー",
+          "url": "https://equal-love.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "not-equal-me",
+      "name": "≠ME",
+      "reading": "ノットイコールミー",
+      "eyebrow": "GROUP GUIDE",
+      "shortDescription": "≠ME（ノットイコールミー）の成り立ち、現在のメンバー、代表的な楽曲、公式情報をまとめたガイドです。",
+      "overview": "≠MEは、=LOVEに続く姉妹グループとして誕生しました。公式サイトは、グループ名に「今までとは違う自分をみんなに経験してほしい」という指原莉乃の思いが込められていると説明しています。",
+      "founded": "2019年1月26日にオーディション最終審査、同年2月24日にお披露目とグループ名を発表",
+      "debut": "2021年4月7日、1stアルバム「超特急 ≠ME行き」を発売",
+      "producer": "指原莉乃",
+      "membersMode": "≠ME",
+      "highlights": [
+        "=LOVEの姉妹グループとして結成",
+        "単独ツアー、周年コンサート、映画などへ活動を拡大",
+        "=LOVE・≒JOYと合同で「イコノイジョイ」公演にも出演"
+      ],
+      "representativeWorks": [
+        "≠ME",
+        "君と僕の歌",
+        "まほろばアスタリスク"
+      ],
+      "sources": [
+        {
+          "label": "≠ME 公式 ABOUT",
+          "url": "https://not-equal-me.jp/feature/about"
+        },
+        {
+          "label": "≠ME 公式プロフィール",
+          "url": "https://not-equal-me.jp/feature/profile"
+        },
+        {
+          "label": "1stアルバム「超特急 ≠ME行き」",
+          "url": "https://not-equal-me.jp/discography/detail/2/"
+        },
+        {
+          "label": "≠ME 公式ディスコグラフィー",
+          "url": "https://not-equal-me.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "nearly-equal-joy",
+      "name": "≒JOY",
+      "reading": "ニアリーイコールジョイ",
+      "eyebrow": "GROUP GUIDE",
+      "shortDescription": "≒JOY（ニアリーイコールジョイ）の成り立ち、現在のメンバー、代表的な楽曲、公式情報をまとめたガイドです。",
+      "overview": "≒JOYは、=LOVE、≠MEに続く第3のグループです。公式サイトは、グループ名に「メンバーと応援するファンが出会ったときに喜びを感じ、幸せな気持ちになってほしい」という指原莉乃の思いが込められていると説明しています。",
+      "founded": "2022年1月30日にオーディション最終審査、同年3月29日にお披露目とグループ名を発表",
+      "debut": "2024年1月17日、メジャーデビュー・ミニアルバム「きっと、絶対、絶対」を発売",
+      "producer": "指原莉乃",
+      "membersMode": "≒JOY",
+      "highlights": [
+        "=LOVE・≠MEに続く第3のグループ",
+        "2022年6月に小澤愛実が加入し、現在の12人体制へ",
+        "単独ツアーや周年コンサートに加え、合同公演にも出演"
+      ],
+      "representativeWorks": [
+        "≒JOY",
+        "無謀人",
+        "体育館ディスコ"
+      ],
+      "sources": [
+        {
+          "label": "≒JOY 公式 ABOUT",
+          "url": "https://nearly-equal-joy.jp/feature/about"
+        },
+        {
+          "label": "≒JOY 公式プロフィール",
+          "url": "https://nearly-equal-joy.jp/feature/profile"
+        },
+        {
+          "label": "メジャーデビュー・ミニアルバム",
+          "url": "https://nearly-equal-joy.jp/discography/detail/13/"
+        },
+        {
+          "label": "≒JOY 公式ディスコグラフィー",
+          "url": "https://nearly-equal-joy.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "sashihara-rino",
+      "name": "指原莉乃",
+      "reading": "さしはら りの",
+      "eyebrow": "PRODUCER GUIDE",
+      "shortDescription": "指原莉乃と=LOVE・≠ME・≒JOYのプロデュース活動の関係を、公式情報をもとに整理したガイドです。",
+      "overview": "指原莉乃は、=LOVE・≠ME・≒JOYのプロデューサーです。各グループの公式ABOUTでは、代々木アニメーション学院とタッグを組み、自身の理想のアイドルを形にするプロジェクトとして説明されています。本サイトでは、本人の芸能活動全般ではなく、3グループとの関係を中心に整理します。",
+      "founded": "2017年に=LOVEのプロデュースを開始",
+      "debut": "その後、2019年に≠ME、2022年に≒JOYがお披露目",
+      "producer": "3グループのプロデューサー",
+      "membersMode": "none",
+      "highlights": [
+        "グループ名やコンセプト、楽曲制作などに関わるプロデューサー",
+        "=LOVEから姉妹グループ≠ME、さらに≒JOYへプロジェクトを展開",
+        "合同公演・合同楽曲を含むイコノイジョイ全体の活動にも関わる"
+      ],
+      "representativeWorks": [
+        "=LOVEプロデュース",
+        "≠MEプロデュース",
+        "≒JOYプロデュース"
+      ],
+      "sources": [
+        {
+          "label": "=LOVE 公式 PRODUCER",
+          "url": "https://equal-love.jp/feature/producer"
+        },
+        {
+          "label": "=LOVE 公式 ABOUT",
+          "url": "https://equal-love.jp/feature/about"
+        },
+        {
+          "label": "≠ME 公式 ABOUT",
+          "url": "https://not-equal-me.jp/feature/about"
+        },
+        {
+          "label": "≒JOY 公式 ABOUT",
+          "url": "https://nearly-equal-joy.jp/feature/about"
+        }
+      ]
+    }
+  ]
+}
