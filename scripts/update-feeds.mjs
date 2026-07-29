@@ -309,9 +309,15 @@ function normalizeGoogleNewsUrl(url) {
 }
 
 function makeDedupeKey(article) {
+  const title = article.title
+    .normalize("NFKC")
+    .replace(/\s+[-–—｜|]\s+[^-–—｜|]{1,60}$/u, "")
+    .replace(/\s*\([^()]{1,50}\)\s*$/u, "")
+    .replace(/[「」『』"'“”‘’・、。！？!?（）()【】\[\]\s　]/g, "")
+    .replace(/&/g, "and")
+    .toLowerCase();
   const url = article.url.replace(/[?#].*$/, "").toLowerCase();
-  const title = article.title.replace(/\s+/g, "").toLowerCase();
-  return url || title;
+  return title || url;
 }
 
 function stableId(value) {
