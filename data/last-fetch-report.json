@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T04:44:01.985Z",
+  "updatedAt": "2026-09-23T11:34:58.142Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
@@ -53,8 +53,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E3%82%A4%E3%82%B3%E3%83%8E%E3%82%A4%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22%20OR%20%22%E3%83%8E%E3%82%A4%E3%83%9F%E3%83%BC%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 81,
-      "skipped": 19,
+      "matched": 79,
+      "skipped": 21,
       "error": ""
     },
     {
@@ -63,8 +63,8 @@
       "url": "https://news.google.com/rss/search?q=%22%3DLOVE%22%20OR%20%22%EF%BC%9DLOVE%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%A9%E3%83%96%22%20OR%20%22%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 17,
-      "skipped": 83,
+      "matched": 11,
+      "skipped": 89,
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%92JOY%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 41,
-      "skipped": 59,
+      "matched": 44,
+      "skipped": 56,
       "error": ""
     },
     {
