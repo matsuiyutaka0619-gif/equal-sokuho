@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-25T21:34:04.141Z",
+  "updatedAt": "2026-09-26T04:57:00.178Z",
   "summary": {
     "sourcesTotal": 13,
     "sourcesEnabled": 9,
     "articlesSaved": 240,
-    "duplicatesSkipped": 102
+    "duplicatesSkipped": 103
   },
   "sources": [
     {
@@ -23,8 +23,8 @@
       "url": "https://www.wws-channel.com/feed",
       "ok": true,
       "fetched": 50,
-      "matched": 1,
-      "skipped": 49,
+      "matched": 0,
+      "skipped": 50,
       "error": ""
     },
     {
@@ -83,8 +83,8 @@
       "url": "https://news.google.com/rss/search?q=%22%E2%89%92JOY%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A7%E3%82%A4%22%20OR%20%22%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
       "fetched": 100,
-      "matched": 42,
-      "skipped": 58,
+      "matched": 40,
+      "skipped": 60,
       "error": ""
     },
     {
@@ -92,9 +92,9 @@
       "name": "Googleニュース: 指原莉乃",
       "url": "https://news.google.com/rss/search?q=%22%E6%8C%87%E5%8E%9F%E8%8E%89%E4%B9%83%22%20OR%20%22%E6%8C%87%E5%8E%9F%20%E8%8E%89%E4%B9%83%22&hl=ja&gl=JP&ceid=JP:ja",
       "ok": true,
-      "fetched": 100,
-      "matched": 65,
-      "skipped": 35,
+      "fetched": 102,
+      "matched": 69,
+      "skipped": 33,
       "error": ""
     }
   ]
