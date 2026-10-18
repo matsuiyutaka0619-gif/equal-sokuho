@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-10-18T04:31:54.394Z",
+  "updatedAt": "2026-10-18T11:03:01.749Z",
   "articles": [
+    {
+      "id": "article-1780475186",
+      "title": "≠ME 川中子奈月心が『EX大衆』最新号に登場 大人っぽい表情から猫との素顔まで - リアルサウンド",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11Uk81a1ViZUdTX1RIVHlMTGVBQWFmTFpmenlRQXZycUZqX0dOTWxPTU5QWjNKNkF4UUdzNTFzX1RNNXNnU19sbkF3QlpudHRQN1NGVjZwWld1eFhVckhvbdIBZkFVX3lxTE40UThLN1BCOFBfMkc0aFNENnh0QlhwX0I5ekVXWE9QOG5VNzdCR0dZLWpDTFM1a25LellERGx4Zk1oZEpLNnFKV0F2NVdRX3BOZHBjajVpSHVDRmhfRDhobnJwaTFodw?oc=5",
+      "summary": "≠ME 川中子奈月心が『EX大衆』最新号に登場 大人っぽい表情から猫との素顔まで リアルサウンド",
+      "sourceId": "google-news-not-equal-me",
+      "sourceName": "Googleニュース: ≠ME",
+      "publishedAt": "2026-10-18T08:50:57.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "not-equal-me"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "≠ME"
+      ],
+      "people": [
+        "≠ME",
+        "川中子奈月心"
+      ],
+      "personIds": [
+        "not-equal-me",
+        "kawanago-natsumi"
+      ],
+      "groupLabels": [
+        "≠ME",
+        "イコノイジョイ全体"
+      ],
+      "memberNames": [
+        "川中子奈月心"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "statusLabels": [
+        "所属アイドル"
+      ]
+    },
+    {
+      "id": "article-1485071854",
+      "title": "指原莉乃がOura Ringを「ないと生きていけない」と紹介｜睡眠6時間38分・入眠3分の画面を公開 サイジングキットは必ずと助言 - Smart Watch Life",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02ZFhMNXNiUnlEaWtsSDItQXRDS09KMi00OEh4VVljVUpuVzUxZmNzUzR4d2tra1habjdMU1dSaGpNMXhTVjRNTnZVX18?oc=5",
+      "summary": "指原莉乃がOura Ringを「ないと生きていけない」と紹介｜睡眠6時間38分・入眠3分の画面を公開 サイジングキットは必ずと助言 Smart Watch Life",
+      "sourceId": "google-news-sashihara",
+      "sourceName": "Googleニュース: 指原莉乃",
+      "publishedAt": "2026-10-18T08:36:54.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "sashihara-rino"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "指原莉乃"
+      ],
+      "people": [
+        "指原莉乃"
+      ],
+      "personIds": [
+        "sashihara-rino"
+      ],
+      "groupLabels": [
+        "プロデューサー",
+        "イコノイジョイ全体",
+        "指原莉乃"
+      ],
+      "memberNames": [
+        "指原莉乃"
+      ],
+      "statuses": [
+        "producer"
+      ],
+      "statusLabels": [
+        "プロデューサー"
+      ]
+    },
     {
       "id": "article-1041921364",
       "title": "【ライブレポ】＝LOVEが届けた9年間の愛と感謝、そして夢の続きへ──「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」DAY1 - OTOTOY",
@@ -182,12 +257,12 @@
       ]
     },
     {
-      "id": "article-2077752457",
+      "id": "article-674875616",
       "title": "＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」公演を開催！！2万人を動員＆来年2月のバンテリンドーム ナゴヤ公演開催を発表！【公式イベントレポート到着】 - Scketto",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xWWV3eTllSy0xSV9PNWJwelcwVEQ1cGkweFI4dUJ3ZVlPZDFRZndRU09rZlFIM19PekxFMHlvM2JSWUFWYVBUV1d4NjlPSTQ?oc=5",
       "summary": "＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」公演を開催！！2万人を動員＆来年2月のバンテリンドーム ナゴヤ公演開催を発表！【公式イベントレポート到着】 Scketto",
-      "sourceId": "google-news-equal-love",
-      "sourceName": "Googleニュース: =LOVE",
+      "sourceId": "google-news-sashihara",
+      "sourceName": "Googleニュース: 指原莉乃",
       "publishedAt": "2026-10-17T11:59:16.000Z",
       "categories": [
         "ikonoi-joy",
@@ -198,40 +273,6 @@
         "イコノイジョイ全体",
         "=LOVE",
         "ライブ・イベント"
-      ],
-      "people": [
-        "=LOVE"
-      ],
-      "personIds": [
-        "equal-love"
-      ],
-      "groupLabels": [
-        "=LOVE",
-        "イコノイジョイ全体"
-      ],
-      "memberNames": [],
-      "statuses": [
-        "active"
-      ],
-      "statusLabels": [
-        "所属アイドル"
-      ]
-    },
-    {
-      "id": "article-1844327977",
-      "title": "【踊ってみた】ラブソングに襲われる/＝LOVE 【=merci】定点ver.♡ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04S2dDdHZjUlZLLXk3S2U4Tjk3Z3VIdlBrNUxEaXl0eTJIWFZFV2x1TlgwWTdPZFBMMkFNMDNwcFI4Zy1rNm1MVnd1ODB3Q3pQaEdVTTU2YTNWMWxN?oc=5",
-      "summary": "【踊ってみた】ラブソングに襲われる/＝LOVE 【=merci】定点ver.♡ YouTube",
-      "sourceId": "google-news-equal-love",
-      "sourceName": "Googleニュース: =LOVE",
-      "publishedAt": "2026-10-17T11:00:26.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "equal-love"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "=LOVE"
       ],
       "people": [
         "=LOVE"
@@ -368,40 +409,6 @@
       ]
     },
     {
-      "id": "article-352833782",
-      "title": "【CDTV】=LOVE⚡️最強ファンサ、はじめました。❤️ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sUktRTzFQUTRsa29oenJxZXJLV28xNHFnTWF2UGlfZEJjR0xVdkgtNk1fLUstYWRPSzlNLVZ2bHdxZw?oc=5",
-      "summary": "【CDTV】=LOVE⚡️最強ファンサ、はじめました。❤️ YouTube",
-      "sourceId": "google-news-equal-love",
-      "sourceName": "Googleニュース: =LOVE",
-      "publishedAt": "2026-10-17T09:00:36.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "equal-love"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "=LOVE"
-      ],
-      "people": [
-        "=LOVE"
-      ],
-      "personIds": [
-        "equal-love"
-      ],
-      "groupLabels": [
-        "=LOVE",
-        "イコノイジョイ全体"
-      ],
-      "memberNames": [],
-      "statuses": [
-        "active"
-      ],
-      "statusLabels": [
-        "所属アイドル"
-      ]
-    },
-    {
       "id": "article-1861533542",
       "title": "LOVE 東京都・TOYOTA ARENA TOKYOにて、＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」公演を開催！！2日間で２万人を動員！！来年2月には、愛知県・バンテリンドーム ナゴヤにて、＝LOVE DOME LIVE in NAGOYA「全ては＝LOV - USENの音楽情報サイト",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORFZqTlJ4NXZ4Sm1lbi1rNk9XV3NvRzJZd0VuZjZhd3ZNQWZGOTRZakpKNFRHdDdIVXgzeGt3VW9hdXB1eXkySWJxVWo5NG5LLWhLNGFWaDV3Ui1XWC1FSWRyWTJKMHF1OVJwLXRUZjZzb2MxeUpKeXViOEtUSTZTWHRUQnJVTy1zcDFJdWl5U3RiNW5yRHJ6WW5kS0ZwRnRHTW9xQVhQdVJFQ3RncG5ldEFkbG1IZnltYUFtR0dpUE56Y3dTYm04c3NDQVRtdWo0?oc=5",
@@ -518,13 +525,13 @@
       ]
     },
     {
-      "id": "article-1288685529",
-      "title": "【ライブレポート】＝LOVE、9周年コンサートで2万人動員。2027年2月にバンテリンドーム公演決定も - BARKS",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBqbUJETHRjRTN4VUlBVEtZT0puTHhCWkRHRGU2SGgxUkhkOHpwWGtzM0RnN1lUMWZXcFNRcjJwaU9Qd0k?oc=5",
-      "summary": "【ライブレポート】＝LOVE、9周年コンサートで2万人動員。2027年2月にバンテリンドーム公演決定も BARKS",
+      "id": "article-1575503206",
+      "title": "＝LOVE 東京都・TOYOTA ARENA TOKYOにて、＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」公演を開催！！｜Infoseekニュース - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SVEs1Rms2MzI0OThESGFhdVkyM0RTNDVMRDVZRFYtX1MtMlJMWkVNejJDQkdKUHFya1FSb1dVaUlrY0l6UF9XNFpWd29tZHRfNktuNDd5TVcyaHlhRUtaWEpTYWRkXzVlVmpBeWJRVmtTdw?oc=5",
+      "summary": "＝LOVE 東京都・TOYOTA ARENA TOKYOにて、＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」公演を開催！！｜Infoseekニュース Infoseek",
       "sourceId": "google-news-equal-love",
       "sourceName": "Googleニュース: =LOVE",
-      "publishedAt": "2026-10-17T03:10:00.000Z",
+      "publishedAt": "2026-10-17T03:45:23.000Z",
       "categories": [
         "ikonoi-joy",
         "equal-love",
@@ -554,13 +561,13 @@
       ]
     },
     {
-      "id": "article-465787466",
-      "title": "【ライブレポート】＝LOVE 9周年コンサート開催！「これからも夢の続きを一緒に過ごしましょう！」（山本杏奈） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTlMzUy1TRnJuTVZkS2IzU2ROUmZPbV9sT1FLaFozbDBKRlZpSU43ZmN1VHFKM2N1WGxYYmNyaDBESVE2T1BmbkZJWTc3YXJIRDk1RDNyZEFvQVl3b3lGVUo2b0dNY244SE1iRS1MOHlnN2pTNXNaWmVLU1Z3RjQ?oc=5",
-      "summary": "【ライブレポート】＝LOVE 9周年コンサート開催！「これからも夢の続きを一緒に過ごしましょう！」（山本杏奈） Yahoo!ニュース",
+      "id": "article-1779597088",
+      "title": "【ライブレポート】＝LOVE 9周年コンサート開催！「これからも夢の続きを一緒に過ごしましょう！」（山本杏奈） - THE FIRST TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WU1l5NFJUeUxwa1VaeTZZQTRoRy1neGd4VHBvMDBiNUVOU3o2YTl2aHl6bGlHOHhfeC1YY3NUYklqUTkyUmh4RXZ0Ql94a01QeldBbXUyLXpvZE0?oc=5",
+      "summary": "【ライブレポート】＝LOVE 9周年コンサート開催！「これからも夢の続きを一緒に過ごしましょう！」（山本杏奈） THE FIRST TIMES",
       "sourceId": "google-news-equal-love",
       "sourceName": "Googleニュース: =LOVE",
-      "publishedAt": "2026-10-17T02:05:43.000Z",
+      "publishedAt": "2026-10-17T02:17:14.000Z",
       "categories": [
         "ikonoi-joy",
         "equal-love",
@@ -681,6 +688,42 @@
       "sourceId": "google-news-equal-love",
       "sourceName": "Googleニュース: =LOVE",
       "publishedAt": "2026-10-16T16:22:00.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "equal-love",
+        "live-event"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "=LOVE",
+        "ライブ・イベント"
+      ],
+      "people": [
+        "=LOVE"
+      ],
+      "personIds": [
+        "equal-love"
+      ],
+      "groupLabels": [
+        "=LOVE",
+        "イコノイジョイ全体"
+      ],
+      "memberNames": [],
+      "statuses": [
+        "active"
+      ],
+      "statusLabels": [
+        "所属アイドル"
+      ]
+    },
+    {
+      "id": "article-634396150",
+      "title": "＝LOVE 東京都・TOYOTA ARENA TOKYOにて、＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」公演を開催！！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnYTRXNmhPdEVlZU1VcnRIdUhfTHcwQkdxc3dKOGdwblQ3TVA0UU50ZGpTWUJPRTZtaGlBRm9xeFJKR0YyMzNabDRMVUNlc2oyamdzcXAxY2o0eDY4Y2dfMlY5YUVBNUM4X1E?oc=5",
+      "summary": "＝LOVE 東京都・TOYOTA ARENA TOKYOにて、＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」公演を開催！！ PR TIMES",
+      "sourceId": "google-news-equal-love",
+      "sourceName": "Googleニュース: =LOVE",
+      "publishedAt": "2026-10-16T14:00:01.000Z",
       "categories": [
         "ikonoi-joy",
         "equal-love",
@@ -1217,6 +1260,44 @@
       ]
     },
     {
+      "id": "article-2139109420",
+      "title": "≠ME・川中子奈月心、猫と音楽に囲まれた素顔を『EX大衆』で披露 - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5eUowdzEyOUswODdGZXJmLWhaeHRJVmN2TDRpZzJvbVlVeHE1ZksyVFR5UWxIYmk3N0h0akhpZVgwM3A2OTJCc2FLSm9xV2cxRjU2bG1jY040RUNZLXdfSWE4QUtCZw?oc=5",
+      "summary": "≠ME・川中子奈月心、猫と音楽に囲まれた素顔を『EX大衆』で披露 RBB TODAY",
+      "sourceId": "google-news-not-equal-me",
+      "sourceName": "Googleニュース: ≠ME",
+      "publishedAt": "2026-10-15T07:28:39.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "not-equal-me"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "≠ME"
+      ],
+      "people": [
+        "≠ME",
+        "川中子奈月心"
+      ],
+      "personIds": [
+        "not-equal-me",
+        "kawanago-natsumi"
+      ],
+      "groupLabels": [
+        "≠ME",
+        "イコノイジョイ全体"
+      ],
+      "memberNames": [
+        "川中子奈月心"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "statusLabels": [
+        "所属アイドル"
+      ]
+    },
+    {
       "id": "article-1010248858",
       "title": "≠ME川中子奈月心、音楽と猫に囲まれ見せた素顔とは - Koubo",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zTW5jXy1vUDgyMGxISFdlYl9MNlczUEhjdWRoUTBzbHJUVW5HOVVUSi1QLUx5NGppUGdXcFN3Zk13NUJPUkE?oc=5",
@@ -1255,13 +1336,13 @@
       ]
     },
     {
-      "id": "article-141926256",
-      "title": "音楽と猫の共演で見せたきらめく素顔≠ME 川中子奈月心、「私らしい私に会いにいく。 ≠MEと写真家たち」 - Koubo",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HdkhBLUFVV29mTkRvd081REtLb0Vnb0p1Rks2VGowdVA1dk1VY0dJYjdrSzhON1BoU0NLcTRBZjVXTm5XQVkzRmV2VzdTS1FCRGJIVmFoNEp3eV80LUpNLQ?oc=5",
-      "summary": "音楽と猫の共演で見せたきらめく素顔≠ME 川中子奈月心、「私らしい私に会いにいく。 ≠MEと写真家たち」 Koubo",
+      "id": "article-366410123",
+      "title": "音楽と猫の共演で見せたきらめく素顔≠ME 川中子奈月心、「私らしい私に会いにいく。 ≠MEと写真家たち」 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uMndMNmZMVDA4R0FVOGRmZEt5bjU0d3NjUXR2dTk2UTdzTFVOUVl4X2ZSek5IT2hJY2RLU1laVUpEbDBDSkx4cDJpNzJ1NDBqQlM2QlIyTUlGTkNwZW9zaVNUand3cW53WXc?oc=5",
+      "summary": "音楽と猫の共演で見せたきらめく素顔≠ME 川中子奈月心、「私らしい私に会いにいく。 ≠MEと写真家たち」 PR TIMES",
       "sourceId": "google-news-not-equal-me",
       "sourceName": "Googleニュース: ≠ME",
-      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "publishedAt": "2026-10-15T04:02:49.000Z",
       "categories": [
         "ikonoi-joy",
         "not-equal-me"
@@ -1364,47 +1445,6 @@
       ],
       "statusLabels": [
         "プロデューサー"
-      ]
-    },
-    {
-      "id": "article-1819981929",
-      "title": "山田杏佳&小澤愛実 ニアジョイメンバーの胃もたれ事情 ≒JOY（ニアリーイコールジョイ・ニアジョイ ） - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFOVV1bTZvMHBnY3J5Z24xWkxta1N5QmxHck5UYURNUDE3akFYc0czLVNRQmtudkhmOGs1RmtUa2k1RXVNMWx6aVktMUcyWHNnMzhrQ2pRd2NpbHdx?oc=5",
-      "summary": "山田杏佳&小澤愛実 ニアジョイメンバーの胃もたれ事情 ≒JOY（ニアリーイコールジョイ・ニアジョイ ） YouTube",
-      "sourceId": "google-news-nearly-equal-joy",
-      "sourceName": "Googleニュース: ≒JOY",
-      "publishedAt": "2026-10-14T09:14:47.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "nearly-equal-joy"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "≒JOY"
-      ],
-      "people": [
-        "≒JOY",
-        "小澤愛実",
-        "山田杏佳"
-      ],
-      "personIds": [
-        "nearly-equal-joy",
-        "ozawa-aimi",
-        "yamada-momoka"
-      ],
-      "groupLabels": [
-        "≒JOY",
-        "イコノイジョイ全体"
-      ],
-      "memberNames": [
-        "小澤愛実",
-        "山田杏佳"
-      ],
-      "statuses": [
-        "active"
-      ],
-      "statusLabels": [
-        "所属アイドル"
       ]
     },
     {
@@ -1953,13 +1993,13 @@
       ]
     },
     {
-      "id": "article-545296998",
-      "title": "【＝LOVE・佐々木舞香】“はじめての体験”を指原莉乃に熱烈お願い＜芸能動画＞ - khb東日本放送",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SNHV1ZjA5X05HUmNIakY2NGl5Q0hUMXhDY1hHckNraHhjTVU4NXBmazVtaWNpX2dWWHZJRm1tVWVZSGI4ZkRSUndtR2IzRDA?oc=5",
-      "summary": "【＝LOVE・佐々木舞香】“はじめての体験”を指原莉乃に熱烈お願い＜芸能動画＞ khb東日本放送",
+      "id": "article-1843757505",
+      "title": "【＝LOVE・佐々木舞香】“はじめての体験”を指原莉乃に熱烈お願い＜芸能動画＞ - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UMjhWNnllMTFIaUVYb19LbGFFSTRucFF2YURqb1Y4SWNiYi1ua2c4eUN2OTVMaDdtVHZjUUR5OXhsaTNfdldyam9YNGVuLXRlVFZuaFA1T09ONHdyMjY2Q3JaRk9xZmN3SE9acFIxREk?oc=5",
+      "summary": "【＝LOVE・佐々木舞香】“はじめての体験”を指原莉乃に熱烈お願い＜芸能動画＞ テレ朝NEWS",
       "sourceId": "google-news-sashihara",
       "sourceName": "Googleニュース: 指原莉乃",
-      "publishedAt": "2026-10-12T11:24:14.000Z",
+      "publishedAt": "2026-10-12T11:13:35.000Z",
       "categories": [
         "ikonoi-joy",
         "equal-love",
@@ -2292,42 +2332,6 @@
       ]
     },
     {
-      "id": "article-616922168",
-      "title": "(画像1/22) ≒JOY「TGC」初出演で観客魅了 ランウェイ駆け抜けファンサたっぷり【TGC北九州2026】 - モデルプレス",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lX3ZyNlZEQlRSVnFnZU84YzNqRlk0MzExc2tPOEp2ZWJFTzE3T2VqUGZIVGRySnE3cG9wUk1TUUpDcUdiNl85LV9Dc1U5Zw?oc=5",
-      "summary": "(画像1/22) ≒JOY「TGC」初出演で観客魅了 ランウェイ駆け抜けファンサたっぷり【TGC北九州2026】 モデルプレス",
-      "sourceId": "google-news-nearly-equal-joy",
-      "sourceName": "Googleニュース: ≒JOY",
-      "publishedAt": "2026-10-10T08:59:00.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "nearly-equal-joy",
-        "media"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "≒JOY",
-        "テレビ・メディア"
-      ],
-      "people": [
-        "≒JOY"
-      ],
-      "personIds": [
-        "nearly-equal-joy"
-      ],
-      "groupLabels": [
-        "≒JOY",
-        "イコノイジョイ全体"
-      ],
-      "memberNames": [],
-      "statuses": [
-        "active"
-      ],
-      "statusLabels": [
-        "所属アイドル"
-      ]
-    },
-    {
       "id": "article-1773519902",
       "title": "≒JOY市原愛弓、福岡凱旋ランウェイでイエロー際立つ個性派スタイル「いつもと雰囲気違う」「さすがの着こなし」の声 【TGC北九州2026】 - モデルプレス",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LdnFHU1ZsT0QwTEt3bFVtTW42bmwzMEl0bUtwbDJjdUJISmF3MVJyb3ZpakdpWGp2WjFZdS1ydkp4ZTA2ZFJ4TW9Hd9IBR0FVX3lxTE1HVEpiSHNfZGpxV0VibEphN281a2VXTUhFU0lJS1c0VmNyMGlpcDliY1JyeE8tczQzODBhWjh1ZElOOGVwdS1n?oc=5",
@@ -2366,10 +2370,10 @@
       ]
     },
     {
-      "id": "article-1992848305",
-      "title": "「TGC北九州2026」池田美優・立花琴未・長浜広奈・≒JOY・CANDY TUNE・AND2BLE、約100組の豪華出演者に観客熱狂【写真特集】 - モデルプレス",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00d2RZNHBXV0sydEVhR1pVN1F6VW56OEVlVUlsN3RWQU1nb0NRZjE2YW9qRkRjTVBNc1pwZEwxa0VVTzBtNWdSSmRwd9IBR0FVX3lxTE1rUGZxY1FQbXZJYkRFd3hLV05hZEJHaVZDNGxTVTdqOVF6d1VFWDBFRUJTcUg0ODhMQjdpODJaVUVxUnpCc0Jv?oc=5",
-      "summary": "「TGC北九州2026」池田美優・立花琴未・長浜広奈・≒JOY・CANDY TUNE・AND2BLE、約100組の豪華出演者に観客熱狂【写真特集】 モデルプレス",
+      "id": "article-324341950",
+      "title": "「TGC北九州2026」池田美優・立花琴未・長浜広奈・≒JOY・CANDY TUNE・AND2BLE、約100組の豪華出演者に観客熱狂【写真特集】｜Infoseekニュース - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjSUNWeFdCeXo4U3VXdlltOXM2enk3X3lkd1ROSDZaNThBaTFIRWlTXy1FWmJWVU5BMmZnMzdsWXlzMEQwelJSTHprem5hTm11UG9rMlZuSzNyS2pSWXFrdUVMR2I1QQ?oc=5",
+      "summary": "「TGC北九州2026」池田美優・立花琴未・長浜広奈・≒JOY・CANDY TUNE・AND2BLE、約100組の豪華出演者に観客熱狂【写真特集】｜Infoseekニュース Infoseek",
       "sourceId": "google-news-nearly-equal-joy",
       "sourceName": "Googleニュース: ≒JOY",
       "publishedAt": "2026-10-10T04:41:30.000Z",
@@ -2402,13 +2406,49 @@
       ]
     },
     {
-      "id": "article-1920161699",
-      "title": "「いっぱい食べる子すき？」イコラブ大谷映美里、爆食オフショット公開「好きに決まってる」「めちゃくちゃ可愛い」 (スポーツ報知) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFQ4NU41YlJlUFZNdkYwQWlMd2VTQzlVYWFOOHhNWXdNUWtZYkVvZFRHaEQxVEZfQThZM3VQcmpMRzNLWkN2ZmlLekVoUWMwendMbldEMXJDRF9HbGNoRGM2NUdkRXhEcVdBWGVzekxqNGRPN01kVkxfVXZjc2N2REJURnQzMnFraXdIR1R3?oc=5",
-      "summary": "「いっぱい食べる子すき？」イコラブ大谷映美里、爆食オフショット公開「好きに決まってる」「めちゃくちゃ可愛い」 (スポーツ報知) Yahoo!ニュース",
+      "id": "article-2028821101",
+      "title": "「TGC北九州2026」池田美優・立花琴未・長浜広奈・≒JOY・CANDY TUNE・AND2BLE、約100組の豪華出演者に観客熱狂【写真特集】 - モデルプレス",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RdGk5cDZQVHJzMXk3dlNyNVhhSGpIOC1fOXVZUUhHbFlrQ3B0Y0E5MjV5d3FSa3JaOS15WkZCd2ttQQ?oc=5",
+      "summary": "「TGC北九州2026」池田美優・立花琴未・長浜広奈・≒JOY・CANDY TUNE・AND2BLE、約100組の豪華出演者に観客熱狂【写真特集】 モデルプレス",
+      "sourceId": "google-news-nearly-equal-joy",
+      "sourceName": "Googleニュース: ≒JOY",
+      "publishedAt": "2026-10-10T04:41:00.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "nearly-equal-joy",
+        "media"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "≒JOY",
+        "テレビ・メディア"
+      ],
+      "people": [
+        "≒JOY"
+      ],
+      "personIds": [
+        "nearly-equal-joy"
+      ],
+      "groupLabels": [
+        "≒JOY",
+        "イコノイジョイ全体"
+      ],
+      "memberNames": [],
+      "statuses": [
+        "active"
+      ],
+      "statusLabels": [
+        "所属アイドル"
+      ]
+    },
+    {
+      "id": "article-1981902735",
+      "title": "「いっぱい食べる子すき？」イコラブ大谷映美里、爆食オフショット公開「好きに決まってる」「めちゃくちゃ可愛い」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xXzFIS2JodzJNX0ZMRkM4Mnk5LThYbV93QkJLVktNdkV0NnRIeTZ5VFRmUzA4UENpTVFKbUUxSjdUOWxDc2R5R1EtN2RMSzhoTzRVdnhGekdJaWtMMHo1QmdZVXdZTGZNYlEwZDJseDI?oc=5",
+      "summary": "「いっぱい食べる子すき？」イコラブ大谷映美里、爆食オフショット公開「好きに決まってる」「めちゃくちゃ可愛い」 読売新聞",
       "sourceId": "google-news-ikonoi",
       "sourceName": "Googleニュース: イコノイジョイ全体",
-      "publishedAt": "2026-10-10T02:35:03.000Z",
+      "publishedAt": "2026-10-10T03:20:00.000Z",
       "categories": [
         "equal-love"
       ],
@@ -2794,40 +2834,6 @@
       ]
     },
     {
-      "id": "article-1573045892",
-      "title": "≒JOY（ニアジョイ）メンバーを紹介！年齢・メンバーカラー・出身地は？ | 歌詞検索サイト【UtaTen】ふりがな付 - UtaTen",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IMFFiQXRPbVZIZFJMc1ZTenlqVHphR0JDblEtYmx2ekpPSV9wZU52UGRZSTA2bTgzc1I3YVNvZUxqRTNfZ0x3LVp4WXpNSzdaMnRUdDBaTU0?oc=5",
-      "summary": "≒JOY（ニアジョイ）メンバーを紹介！年齢・メンバーカラー・出身地は？ | 歌詞検索サイト【UtaTen】ふりがな付 UtaTen",
-      "sourceId": "google-news-ikonoi",
-      "sourceName": "Googleニュース: イコノイジョイ全体",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "nearly-equal-joy"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "≒JOY"
-      ],
-      "people": [
-        "≒JOY"
-      ],
-      "personIds": [
-        "nearly-equal-joy"
-      ],
-      "groupLabels": [
-        "≒JOY",
-        "イコノイジョイ全体"
-      ],
-      "memberNames": [],
-      "statuses": [
-        "active"
-      ],
-      "statusLabels": [
-        "所属アイドル"
-      ]
-    },
-    {
       "id": "article-538754396",
       "title": "「確かにクセになる」イコラブ・大谷映美里、有名ラーメン店“ガツン”パーカー姿に反響「そんなのあるんだ」「何を着てもカワイイ」 - 中日新聞Web",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtLTR1V2tVdk1TdHEyS1lRX3c3Z3A1eW1NMjdZZGlHaXNjeDV4TTJCcnFZV01BSDA3bjdOVjFvVTRXczlITDRzRjRfQlZoSk5pV29XUA?oc=5",
@@ -3018,6 +3024,40 @@
         "野口衣織",
         "諸橋沙夏"
       ],
+      "statuses": [
+        "active"
+      ],
+      "statusLabels": [
+        "所属アイドル"
+      ]
+    },
+    {
+      "id": "article-1926890108",
+      "title": "≒JOY（ニアジョイ）メンバーを紹介！年齢・メンバーカラー・出身地は？ | 歌詞検索サイト【UtaTen】ふりがな付 - UtaTen",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IMFFiQXRPbVZIZFJMc1ZTenlqVHphR0JDblEtYmx2ekpPSV9wZU52UGRZSTA2bTgzc1I3YVNvZUxqRTNfZ0x3LVp4WXpNSzdaMnRUdDBaTU0?oc=5",
+      "summary": "≒JOY（ニアジョイ）メンバーを紹介！年齢・メンバーカラー・出身地は？ | 歌詞検索サイト【UtaTen】ふりがな付 UtaTen",
+      "sourceId": "google-news-nearly-equal-joy",
+      "sourceName": "Googleニュース: ≒JOY",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "nearly-equal-joy"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "≒JOY"
+      ],
+      "people": [
+        "≒JOY"
+      ],
+      "personIds": [
+        "nearly-equal-joy"
+      ],
+      "groupLabels": [
+        "≒JOY",
+        "イコノイジョイ全体"
+      ],
+      "memberNames": [],
       "statuses": [
         "active"
       ],
@@ -3517,49 +3557,12 @@
       ]
     },
     {
-      "id": "article-1360644215",
-      "title": "指原莉乃＞パリのディズニー満喫 美肌輝くキャミワンピ姿に「眼福です」の声（MANTANWEB） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84YnhHaTZRTjRDRDQ3eE8xcTY3cWNPZTk5aXFLQXo1X0s5T1YwUHN6djcwalNwYk03dnBhbm1KUzhZTTN6eUpseXhRQUppbUhRNXVRenJ4S0I2S2FCRGM3YkhhMzNwU3BPTWVVY2ZDYWFlamR2U1FWUHpFcEt6bkk?oc=5",
-      "summary": "指原莉乃＞パリのディズニー満喫 美肌輝くキャミワンピ姿に「眼福です」の声（MANTANWEB） Yahoo!ニュース",
-      "sourceId": "google-news-sashihara",
-      "sourceName": "Googleニュース: 指原莉乃",
-      "publishedAt": "2026-09-29T07:00:00.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "sashihara-rino"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "指原莉乃"
-      ],
-      "people": [
-        "指原莉乃"
-      ],
-      "personIds": [
-        "sashihara-rino"
-      ],
-      "groupLabels": [
-        "プロデューサー",
-        "イコノイジョイ全体",
-        "指原莉乃"
-      ],
-      "memberNames": [
-        "指原莉乃"
-      ],
-      "statuses": [
-        "producer"
-      ],
-      "statusLabels": [
-        "プロデューサー"
-      ]
-    },
-    {
-      "id": "article-1952872149",
+      "id": "article-529027844",
       "title": "指原莉乃｢≠ME｣オーディションに｢元アイドル｣が多すぎて物議…｢卒業→別グループで復活｣\"アイドルの転生\"急増のワケ - 東洋経済オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjMWxBem9PNUx3WlNhTk1hSmNMODJYTFpXdFl3R1V0MGV2YkZLOVBZTFB6UTNoN3RId2FVSjNNQ003UkJWR29sSGRPbjZod1RxQVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYR3pfejF1WUZkQXZfTDZ4VEh0NUpGa015eU1uR0ZTTmVZb2N2bWpOMDhRdlZnZmxHWDV4THhKQXZ6bVVWTVdvSlV0a2Z6Q1UxVGNjLVZzeTM4UFk?oc=5",
       "summary": "指原莉乃｢≠ME｣オーディションに｢元アイドル｣が多すぎて物議…｢卒業→別グループで復活｣\"アイドルの転生\"急増のワケ 東洋経済オンライン",
-      "sourceId": "google-news-sashihara",
-      "sourceName": "Googleニュース: 指原莉乃",
+      "sourceId": "google-news-not-equal-me",
+      "sourceName": "Googleニュース: ≠ME",
       "publishedAt": "2026-09-29T07:00:00.000Z",
       "categories": [
         "ikonoi-joy",
@@ -3597,6 +3600,43 @@
         "所属アイドル",
         "プロデューサー",
         "元メンバー"
+      ]
+    },
+    {
+      "id": "article-1360644215",
+      "title": "指原莉乃＞パリのディズニー満喫 美肌輝くキャミワンピ姿に「眼福です」の声（MANTANWEB） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84YnhHaTZRTjRDRDQ3eE8xcTY3cWNPZTk5aXFLQXo1X0s5T1YwUHN6djcwalNwYk03dnBhbm1KUzhZTTN6eUpseXhRQUppbUhRNXVRenJ4S0I2S2FCRGM3YkhhMzNwU3BPTWVVY2ZDYWFlamR2U1FWUHpFcEt6bkk?oc=5",
+      "summary": "指原莉乃＞パリのディズニー満喫 美肌輝くキャミワンピ姿に「眼福です」の声（MANTANWEB） Yahoo!ニュース",
+      "sourceId": "google-news-sashihara",
+      "sourceName": "Googleニュース: 指原莉乃",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "sashihara-rino"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "指原莉乃"
+      ],
+      "people": [
+        "指原莉乃"
+      ],
+      "personIds": [
+        "sashihara-rino"
+      ],
+      "groupLabels": [
+        "プロデューサー",
+        "イコノイジョイ全体",
+        "指原莉乃"
+      ],
+      "memberNames": [
+        "指原莉乃"
+      ],
+      "statuses": [
+        "producer"
+      ],
+      "statusLabels": [
+        "プロデューサー"
       ]
     },
     {
@@ -3714,45 +3754,6 @@
       ],
       "statusLabels": [
         "所属アイドル"
-      ]
-    },
-    {
-      "id": "article-1239597029",
-      "title": "指原莉乃の「ベストプロデューサー」受賞を田中みな実がインスタライブで祝福「美の競演 最強」などの声 (ABEMA TIMES) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM19NVFZacEd6ZXhiR3hZVDRoY2hZZVpNSEhSeE52bmluV0dxM214bk0ycXdNTkNQeGJWLWFqNU91a1ppUkVNdFlYNlRSSnRNRXN4NnZWc3lFR1dwejZCSkhYZkhtY0swQVRYUElOSDNxZUltS2VnLUg2R0FZa1Qwa1o2R3A1MU92VHAtNlln?oc=5",
-      "summary": "指原莉乃の「ベストプロデューサー」受賞を田中みな実がインスタライブで祝福「美の競演 最強」などの声 (ABEMA TIMES) Yahoo!ニュース",
-      "sourceId": "google-news-sashihara",
-      "sourceName": "Googleニュース: 指原莉乃",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "sashihara-rino",
-        "live-event"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "指原莉乃",
-        "ライブ・イベント"
-      ],
-      "people": [
-        "指原莉乃"
-      ],
-      "personIds": [
-        "sashihara-rino"
-      ],
-      "groupLabels": [
-        "プロデューサー",
-        "イコノイジョイ全体",
-        "指原莉乃"
-      ],
-      "memberNames": [
-        "指原莉乃"
-      ],
-      "statuses": [
-        "producer"
-      ],
-      "statusLabels": [
-        "プロデューサー"
       ]
     },
     {
@@ -4245,43 +4246,6 @@
       ]
     },
     {
-      "id": "article-1557250335",
-      "title": "村重杏奈、HKT時代にグレて指原莉乃に叱られた過去を告白 - SmartNews",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQdHhRcXFyWUhGZXdaNHlXZDJBZEgzTGZ4czhyNnZSNUJpSzhDYVNJanAxLXVxVlYzNkNwdUt4bWU2S3VTT1FfekxkTWNCSW9fTkpPbUEtT005cnRqU0VtX1VuYzB5VmFaMXpBcjNTandXNzBmLUZZejlkRnlvMkJ3Z0xFZWVfNG9pT3A1XzQ4bFlzVDFselUxODZQMm84M3NxTUNsR2tsZlBsU3FEQjhUV0NWbHJRbUNXaTZuNmphQ2oyVWs4d2tacWV6WDJ0YXRMSnlkc1l1aTRLSmtHbU1OVUVaYzEtdkE0eWRSVHVJQkd3NEsycHBXM2NDV3h6eUQzNGVKd2hPRk50NGJoMzgwdHVvUE5iQVJNa3plLUN3dWFIbU5zMGU4MTcycTh6YVhlcEZLRmlxVWl1ekstODJ4WDVHYzY4b2FvR3hiN0RKUExaRU1SR2tUdlYxZV9mV3FiMUdCQnhXUXI4N2FPZEZfTi0wSnJyYjZ0a21CaC1jMjg1T3Z0WVNyQ0xrUDVRTFV1Nk1QM3BKQVJpbzA?oc=5",
-      "summary": "村重杏奈、HKT時代にグレて指原莉乃に叱られた過去を告白 SmartNews",
-      "sourceId": "google-news-sashihara",
-      "sourceName": "Googleニュース: 指原莉乃",
-      "publishedAt": "2026-09-24T07:00:00.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "sashihara-rino"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "指原莉乃"
-      ],
-      "people": [
-        "指原莉乃"
-      ],
-      "personIds": [
-        "sashihara-rino"
-      ],
-      "groupLabels": [
-        "プロデューサー",
-        "イコノイジョイ全体",
-        "指原莉乃"
-      ],
-      "memberNames": [
-        "指原莉乃"
-      ],
-      "statuses": [
-        "producer"
-      ],
-      "statusLabels": [
-        "プロデューサー"
-      ]
-    },
-    {
       "id": "article-1869702391",
       "title": "≒JOY「サマーツインテール」、自身通算3作目の1位 初週で自己最高の“累積売上”を記録【オリコンランキング】 - 山陽新聞",
       "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNLWtQdUlFLUxRQzExSlFLZEJWY2ZOWDZVdzk0SERELTh1ai1RZXJEa29zSUpFTjhmSVBfMmVvcWc1RVZtWmY0TllUVWVGLUtoX0c2QVRPSlFRUFFBWU9ubE1ZSmZFWUF2UVc4RU9TQTdicEI0N0cyVUN0eXZfZTY1RFREVkJDRWFHY0Znd1M5dmVLekZubG95RVZtQVFJeWtoeVRWX2FFUFFEX1VrWldDaFdBaUR6QzZRVWdwc2p5Q0RtVXJIdHVYMW1OLUdUeE1RWFltMm1HYS01RUgxNUtPd1gxMUVqQ2h0eGRnZzBDSE1kQ2pmckp4RXRjQlFueHZDRHZBN2VNaV9ZUEdteWc0WmR5RTNGVFFGZ1J2TnJxSHF6bU9VTTlvbzVMYjBJSDdtbFZLMTVIRHVRQWpMX25qN3o4a3VJZXMtc3p1QThfYjJ2YVJkcE9LRFhTS0FpdHZPZllSSDl3NHR5ZFdJYU9nV3l3Zzg5UDZTSzBsRWgxNEg2X1BwWmFXLTlsbWNfYVRSb3AzRUtHX0I3M092MjBRc2FwQTY1eGdnZjNIZ3BTZnQ5SHFRV2dVWWRQck5Jc3kz?oc=5",
@@ -4588,6 +4552,44 @@
       ]
     },
     {
+      "id": "article-2081990231",
+      "title": "≒JOY・逢田珠里依、初の写真集は「原点にして頂点」 注目は“肩”「メンバーが褒めてくれるので」 - オリコンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Kb2lUSnVtdENVYlhGRU5NNkF4ZHJuQzVmcTEtNWUtcWh2VXFtNzlNOGVTdGpQZi16N0NORktyaUxXZnlXb3FTQUU2SUlvY2kzQUdNTExn?oc=5",
+      "summary": "≒JOY・逢田珠里依、初の写真集は「原点にして頂点」 注目は“肩”「メンバーが褒めてくれるので」 オリコンニュース",
+      "sourceId": "google-news-nearly-equal-joy",
+      "sourceName": "Googleニュース: ≒JOY",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "nearly-equal-joy"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "≒JOY"
+      ],
+      "people": [
+        "≒JOY",
+        "逢田珠里依"
+      ],
+      "personIds": [
+        "nearly-equal-joy",
+        "aida-jurii"
+      ],
+      "groupLabels": [
+        "≒JOY",
+        "イコノイジョイ全体"
+      ],
+      "memberNames": [
+        "逢田珠里依"
+      ],
+      "statuses": [
+        "active"
+      ],
+      "statusLabels": [
+        "所属アイドル"
+      ]
+    },
+    {
       "id": "article-1657416897",
       "title": "指原莉乃プロデュース『≠ME』新メンバー候補に元SKEセンターら48系OGが続々「中途採用すぎる」“前世持ち”だらけの理由 - 週刊女性PRIME",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Z3ljUEl3WW5fb3hSd3FkXzdObVFRcG9ZeXAta0RmYnEzUVBXeTJoMnpCdHNiNHlxRnJHOHVvdmVRYnRkWnRSM0IwMHdGWGNPUDZWY21KYzRwQlF6?oc=5",
@@ -4774,44 +4776,6 @@
         "イコノイジョイ全体"
       ],
       "memberNames": [],
-      "statuses": [
-        "active"
-      ],
-      "statusLabels": [
-        "所属アイドル"
-      ]
-    },
-    {
-      "id": "article-989753199",
-      "title": "永田詩央里＞「EX大衆」で≠ME新連載 マジックアワーに“私らしさ”表現 ステージとは異なる自然体（MANTANWEB） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyd2R5bEI0aElXODZMaEVLcHhhbkZGY1ZyeU9Od3NEY2MyTUxLdVAwNm50bTlzZjRYLUlqTnBOOXJvZWFmU0g5WDM4am9BNDNnUnR3a2FjXzl3bmlWMFJLRlJCeUZKcGVJUTNBVWZBSmhYRnB0MDN4Uy03TXk5cmM?oc=5",
-      "summary": "永田詩央里＞「EX大衆」で≠ME新連載 マジックアワーに“私らしさ”表現 ステージとは異なる自然体（MANTANWEB） Yahoo!ニュース",
-      "sourceId": "google-news-not-equal-me",
-      "sourceName": "Googleニュース: ≠ME",
-      "publishedAt": "2026-09-19T07:00:00.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "not-equal-me"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "≠ME"
-      ],
-      "people": [
-        "≠ME",
-        "永田詩央里"
-      ],
-      "personIds": [
-        "not-equal-me",
-        "nagata-shiori"
-      ],
-      "groupLabels": [
-        "≠ME",
-        "イコノイジョイ全体"
-      ],
-      "memberNames": [
-        "永田詩央里"
-      ],
       "statuses": [
         "active"
       ],
@@ -5402,6 +5366,43 @@
       ],
       "statusLabels": [
         "所属アイドル"
+      ]
+    },
+    {
+      "id": "article-2029301686",
+      "title": "指原莉乃 バラエティーとの向き合い方に変化「まだ戦わなきゃいけない人なんだって思った」 - スポニチ Sponichi Annex",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzFVV3VoSHNITFhITzFVQm1rS3FQdWJUQXhmcXVLOXdUeFEwRVVxeG52Rk9HTkt1bmhZRkdnTHVoN1YzNzhiRTYzUy0zVlJfR2c1QnFLZXhHaDR5NVAwUU1WYTBqLWtacGhjMEk0WXR4dk12bmUtVS0za3BwOG1Ody15MlFrZU9OM3UxZmE5RWRLTy1VQ1E?oc=5",
+      "summary": "指原莉乃 バラエティーとの向き合い方に変化「まだ戦わなきゃいけない人なんだって思った」 スポニチ Sponichi Annex",
+      "sourceId": "google-news-sashihara",
+      "sourceName": "Googleニュース: 指原莉乃",
+      "publishedAt": "2026-09-13T07:00:00.000Z",
+      "categories": [
+        "ikonoi-joy",
+        "sashihara-rino"
+      ],
+      "categoryLabels": [
+        "イコノイジョイ全体",
+        "指原莉乃"
+      ],
+      "people": [
+        "指原莉乃"
+      ],
+      "personIds": [
+        "sashihara-rino"
+      ],
+      "groupLabels": [
+        "プロデューサー",
+        "イコノイジョイ全体",
+        "指原莉乃"
+      ],
+      "memberNames": [
+        "指原莉乃"
+      ],
+      "statuses": [
+        "producer"
+      ],
+      "statusLabels": [
+        "プロデューサー"
       ]
     },
     {
@@ -6072,6 +6073,43 @@
       ]
     },
     {
+      "id": "article-1329846360",
+      "title": "元イコラブ 齊藤なぎさ(23) 喜びの報告に畑芽育・横田真悠らが祝福！ファンからも「笑顔が輝いている」「なーたんおめでとう！」 - ABEMA",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBN01Wc2cxSEJqdzNEc2tlU0Z1R1dhcTZhM1c2LTBVY0UxNUhCSzFLcEtHUmJDU0JaVncxNWQzYU8zcENHUlkxN1N2bzV0TGc0dHFLcFVCN0lEbGxF?oc=5",
+      "summary": "元イコラブ 齊藤なぎさ(23) 喜びの報告に畑芽育・横田真悠らが祝福！ファンからも「笑顔が輝いている」「なーたんおめでとう！」 ABEMA",
+      "sourceId": "google-news-ikonoi",
+      "sourceName": "Googleニュース: イコノイジョイ全体",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "categories": [
+        "equal-love"
+      ],
+      "categoryLabels": [
+        "=LOVE"
+      ],
+      "people": [
+        "=LOVE",
+        "齊藤なぎさ"
+      ],
+      "personIds": [
+        "equal-love",
+        "saito-nagisa"
+      ],
+      "groupLabels": [
+        "=LOVE"
+      ],
+      "memberNames": [
+        "齊藤なぎさ"
+      ],
+      "statuses": [
+        "active",
+        "former"
+      ],
+      "statusLabels": [
+        "所属アイドル",
+        "元メンバー"
+      ]
+    },
+    {
       "id": "article-715575867",
       "title": "＝LOVEメンバー、ミニスカセーラー風衣装に反響「透明感すごい」「スタイル抜群」 - モデルプレス",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85NFd1dzZva01OSEVnXzczQzZCMGNFQ21FcFRrd3UwcDZINXQzd3NHQi12Sl96eFZkUVRKd1NOemNhbWdSYkdiR0plSdIBR0FVX3lxTFBMZmVqR3BWLUktbDVlUTJaVEUxcjhSVVNRaEdncGROZnFUM2J6R3VVMWN4MlBhcnAycmxYekUtMmFmbFIxRDV3?oc=5",
@@ -6317,6 +6355,41 @@
         "≒JOY"
       ],
       "memberNames": [],
+      "statuses": [
+        "active"
+      ],
+      "statusLabels": [
+        "所属アイドル"
+      ]
+    },
+    {
+      "id": "article-339925498",
+      "title": "イコラブ諸橋沙夏、“酒好き”らしいYouTube開設 三茶を瓶ビール目当てに飲み歩く姿も「3L飲みました」 - リアルサウンド",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyOXpKNUNwMjN5QjVKTGNvQXhYYVdsVWVOd1FBdno5VUx2eXBqYjVTWkd5WTJkblB6SUFfd1NQbkwxZkdzOEEyX0ZzMFdJaE9qYXNzaHdUdXYyVWgyT3pGNNIBZkFVX3lxTE1wTXdicGtYdmF6ZHkxaGowSFJSaG9VZmpXQVZRLW9SdHZYVzRTcmlfVFM4MXZhaHo0Uy1UcVZRZm9zckNGZ0F1dGNuLXVhMkctQktJckVjZWxMSXFmakRPUUtndEtSUQ?oc=5",
+      "summary": "イコラブ諸橋沙夏、“酒好き”らしいYouTube開設 三茶を瓶ビール目当てに飲み歩く姿も「3L飲みました」 リアルサウンド",
+      "sourceId": "google-news-ikonoi",
+      "sourceName": "Googleニュース: イコノイジョイ全体",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "categories": [
+        "equal-love"
+      ],
+      "categoryLabels": [
+        "=LOVE"
+      ],
+      "people": [
+        "=LOVE",
+        "諸橋沙夏"
+      ],
+      "personIds": [
+        "equal-love",
+        "morohashi-sana"
+      ],
+      "groupLabels": [
+        "=LOVE"
+      ],
+      "memberNames": [
+        "諸橋沙夏"
+      ],
       "statuses": [
         "active"
       ],
@@ -7222,29 +7295,31 @@
       ]
     },
     {
-      "id": "article-1749724590",
-      "title": "【深ヨミ】≒JOY『サマーツインテール』の初週地域別販売動向を過去作と比較調査 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BaEpsWktZRWIzZ1cwUGNoOG1WSHVtSnlWeWo0NVRMTnZtendBSXByMlhTcjBYVmVjQjlZRS1sbXRobFA2b1BUNzVTbjEzSjEyRC1fcEVaTE12QmFMc21GdldMM01wZTBzeU1VYmhNR05BbF9ScGFpSzQ1ZHZ0NFU?oc=5",
-      "summary": "【深ヨミ】≒JOY『サマーツインテール』の初週地域別販売動向を過去作と比較調査 Yahoo!ニュース",
-      "sourceId": "google-news-nearly-equal-joy",
-      "sourceName": "Googleニュース: ≒JOY",
+      "id": "article-1288160918",
+      "title": "＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」FC2次先行チケット受付開始のお知らせ - ＝LOVE Official Fan Club",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wVGNueGNtYXplQXQyTzFBRGpobzhiVkxLMzVMUzZrZ2l3aDZlb0RKRHR4VFktM3BtSjM4dGtybkJJSVpDMHJlNWx6RDhYLWZ5?oc=5",
+      "summary": "＝LOVE 9周年コンサート「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」FC2次先行チケット受付開始のお知らせ ＝LOVE Official Fan Club",
+      "sourceId": "google-news-equal-love",
+      "sourceName": "Googleニュース: =LOVE",
       "publishedAt": "2026-08-17T07:00:00.000Z",
       "categories": [
         "ikonoi-joy",
-        "nearly-equal-joy"
+        "equal-love",
+        "live-event"
       ],
       "categoryLabels": [
         "イコノイジョイ全体",
-        "≒JOY"
+        "=LOVE",
+        "ライブ・イベント"
       ],
       "people": [
-        "≒JOY"
+        "=LOVE"
       ],
       "personIds": [
-        "nearly-equal-joy"
+        "equal-love"
       ],
       "groupLabels": [
-        "≒JOY",
+        "=LOVE",
         "イコノイジョイ全体"
       ],
       "memberNames": [],
@@ -8399,42 +8474,6 @@
       ]
     },
     {
-      "id": "article-193124382",
-      "title": "「≠MEはすごく大きな夢を持っている」 駆け抜けた初アリーナツアー、“次”へ進むための全身全霊のステージ - リアルサウンド",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OaWdWSV95MkQ4WGZ5ZS1UN2dQejVhRUdqOGFMNXpRYWlKaVk2WmgwQVU4UkwyVE1KNzNTUXljSGtmSTBETE5idjEyd2l5b00zWGlnOV90RXZFZ9IBX0FVX3lxTFBPWWJGSlp2Y1p4aXdGcHpPTnlUTU9odXI3UFRFdGtDNktjcTZaV294UEV1Zm1ZUXV6cEVPdHRKNHZnM1NLQ1ppdy1VbzgzT3VaQXZNbE5jWWtnSVppQzZJ?oc=5",
-      "summary": "「≠MEはすごく大きな夢を持っている」 駆け抜けた初アリーナツアー、“次”へ進むための全身全霊のステージ リアルサウンド",
-      "sourceId": "google-news-not-equal-me",
-      "sourceName": "Googleニュース: ≠ME",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "not-equal-me",
-        "live-event"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "≠ME",
-        "ライブ・イベント"
-      ],
-      "people": [
-        "≠ME"
-      ],
-      "personIds": [
-        "not-equal-me"
-      ],
-      "groupLabels": [
-        "≠ME",
-        "イコノイジョイ全体"
-      ],
-      "memberNames": [],
-      "statuses": [
-        "active"
-      ],
-      "statusLabels": [
-        "所属アイドル"
-      ]
-    },
-    {
       "id": "article-1451646649",
       "title": "指原莉乃 「過激なことを言わなくなった」多くのプロデュース業を務める中で心境に変化 (デイリースポーツ) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWFZTHlPejhvZFJtWEFxX1Nfdjdac1A1WGFQZ3hTbi1FaFpwaXlZT0N3YmZRdGFkVnkyb094eUtTNmsxMkc0UWU5VzJiMld4V19wUlFxN1JJSTlVQXkzY1pPa1NxMTJsbzZCTGhkVG9BbWhmUUVEa09LejI5VF81Y0RKY0ZQbnFaN1UzU3Jn?oc=5",
@@ -8930,45 +8969,6 @@
       ],
       "statusLabels": [
         "所属アイドル"
-      ]
-    },
-    {
-      "id": "article-491627764",
-      "title": "指原莉乃がインテリアスタイリスト・石井佳苗さんに聞いた！ センスよく見える「キャビネットの飾り方」【指原莉乃のさしはラジオ】 - BAILA（バイラ）",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRTVpEVXNycXZRY3BrSDFvcUFRWllPSDE0Yl9OcUtaeGtLZHd2emFySlFSSHNJUXA4V1lIa1BxMW5Tb1cyRVBkRjgyN05POEJTYzNkenlzY2E4ZnF1WHJncVl6Zw?oc=5",
-      "summary": "指原莉乃がインテリアスタイリスト・石井佳苗さんに聞いた！ センスよく見える「キャビネットの飾り方」【指原莉乃のさしはラジオ】 BAILA（バイラ）",
-      "sourceId": "google-news-sashihara",
-      "sourceName": "Googleニュース: 指原莉乃",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "categories": [
-        "ikonoi-joy",
-        "sashihara-rino",
-        "media"
-      ],
-      "categoryLabels": [
-        "イコノイジョイ全体",
-        "指原莉乃",
-        "テレビ・メディア"
-      ],
-      "people": [
-        "指原莉乃"
-      ],
-      "personIds": [
-        "sashihara-rino"
-      ],
-      "groupLabels": [
-        "プロデューサー",
-        "イコノイジョイ全体",
-        "指原莉乃"
-      ],
-      "memberNames": [
-        "指原莉乃"
-      ],
-      "statuses": [
-        "producer"
-      ],
-      "statusLabels": [
-        "プロデューサー"
       ]
     }
   ]
